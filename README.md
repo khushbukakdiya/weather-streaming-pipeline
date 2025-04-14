@@ -12,8 +12,9 @@ This project demonstrates a real-time data processing pipeline for weather data 
 
 1. Clone the repository:
     ```
-    git clone <your-repo-link>
+    git clone https://github.com/khushbukakdiya/weather-streaming-pipeline.git
     cd weather-streaming-pipeline
+
     ```
 
 2. Build and start Docker containers:
