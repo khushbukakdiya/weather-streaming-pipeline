@@ -34,7 +34,6 @@ This project demonstrates a real-time data processing pipeline for weather data 
     spark-submit spark/weather_streaming.py
     ```
 
-5. Optionally, build a dashboard with Streamlit or Grafana to visualize real-time weather data.
 
 ### Technologies Used:
 - Apache Kafka
